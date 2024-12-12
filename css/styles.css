@@ -64,3 +64,9 @@ ul {
     flex-direction: row;
     gap: 0.5rem;
 }
+.recommended-icon {
+    width: 2rem;
+    height: 2rem;
+
+    fill: currentColor;
+}
