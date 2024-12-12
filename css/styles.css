@@ -21,6 +21,8 @@ header {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+
+    text-align: center;
 }
 footer {
     padding: 0.5rem;
@@ -32,6 +34,8 @@ footer {
     flex-direction: row;
     justify-content: center;
     align-items: center;
+
+    text-align: center;
 }
 section {
     padding: 1.5rem;
