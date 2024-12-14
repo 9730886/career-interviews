@@ -4,16 +4,16 @@
 }
 
 body {
-    background-color: #ffffff;
-    color: #000000;
+    background-color: #000000;
+    color: #ffffff;
 
     font-family: 'Open Sans', sans-serif;
 }
 header {
     padding: 1rem;
 
-    background-color: #292929;
-    color: #b0b0b0;
+    background-color: #131313;
+    color: #eaeaea;
 
     display: flex;
     flex-direction: row;
@@ -25,8 +25,8 @@ header {
 footer {
     padding: 0.5rem;
 
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #131313;
+    color: #eaeaea;
     
     display: flex;
     flex-direction: row;
