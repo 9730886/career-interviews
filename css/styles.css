@@ -60,6 +60,13 @@ h2 {
 ul {
     padding-left: 2rem;
 }
+a, a:active {
+    color: white;
+
+    font-weight: 700;
+
+    text-decoration: underline;
+}
 
 .recommended-container {
     display: flex;
